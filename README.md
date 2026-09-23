@@ -76,4 +76,4 @@ Building real-world web applications while strengthening my frontend, backend, a
 ## 📫 Connect With Me
 
 * GitHub: [@Ajay-Soyi](https://github.com/Ajay-Soyi)
-* LinkedIn: [Ajay Soyi](https://www.linkedin.com/in/ajay-soyi-0680961a/)
+* LinkedIn: [Ajay Soyi](www.linkedin.com/in/ajay-soyi-0680961a0)
