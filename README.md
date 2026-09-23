@@ -29,38 +29,37 @@ I enjoy learning by building projects, experimenting with ideas, and understandi
 
 A JavaScript-based task management application built to practice DOM manipulation, event handling, and dynamic UI updates.
 
-[View Repository](https://github.com/Ajay-Soyi/Task-Manager)
+[Repository](https://github.com/Ajay-Soyi/Task-Manager) • [Live Demo](https://ajay-soyi.github.io/Task-Manager/)
 
 ### 🌦️ Weather App
 
 A basic weather application that fetches and displays weather information using JavaScript.
 
-[View Repository](https://github.com/Ajay-Soyi/Weather-App) 
-[Live Link](https://ajay-soyi.github.io/VLC-Media-Player-Clone-/)
+[Repository](https://github.com/Ajay-Soyi/Weather-App) • [Live Demo](#)
 
 ### 🎬 VLC Media Player Clone
 
 A basic recreation of a VLC-style media player interface built with JavaScript.
 
-[View Repository](https://github.com/Ajay-Soyi/VLC-Media-Player-Clone-)
+[Repository](https://github.com/Ajay-Soyi/VLC-Media-Player-Clone-) • [Live Demo](https://ajay-soyi.github.io/VLC-Media-Player-Clone-/)
 
 ### 👤 User Card Dynamic UI
 
 A JavaScript project focused on creating and updating user interface elements dynamically.
 
-[View Repository](https://github.com/Ajay-Soyi/UserCard-dynamic-UI)
+[Repository](https://github.com/Ajay-Soyi/UserCard-dynamic-UI) • [Live Demo](https://ajay-soyi.github.io/UserCard-dynamic-UI/)
 
 ### 🌿 Olive Landing Page
 
 A frontend landing page focused on layout, styling, and visual design using HTML and CSS.
 
-[View Repository](https://github.com/Ajay-Soyi/Olive-Landing-Page)
+[Repository](https://github.com/Ajay-Soyi/Olive-Landing-Page) • [Live Demo](https://olive-landing-page-liart.vercel.app/)
 
 ### 🍃 Shinsei Village
 
 A frontend practice project focused on building a visually designed webpage using HTML and CSS.
 
-[View Repository](https://github.com/Ajay-Soyi/Shinsei-Village)
+[Repository](https://github.com/Ajay-Soyi/Shinsei-Village) • [Live Demo](https://ajay-soyi.github.io/Shinsei-Village/)
 
 ## 📚 Currently Learning
 
@@ -77,4 +76,4 @@ Building real-world web applications while strengthening my frontend, backend, a
 ## 📫 Connect With Me
 
 * GitHub: [@Ajay-Soyi](https://github.com/Ajay-Soyi)
-* LinkedIn: [Ajay Soyi](https://www.linkedin.com/in/ajay-soyi-0680961a0/)
+* LinkedIn: [Ajay Soyi](https://www.linkedin.com/in/ajay-soyi-0680961a/)
