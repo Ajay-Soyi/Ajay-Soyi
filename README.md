@@ -23,7 +23,7 @@ I enjoy learning by building projects, experimenting with ideas, and understandi
 * VS Code
 * Cursor
 
-## 🚀 Selected Projects
+## 🚀 Projects
 
 ### 📝 Task Manager
 
