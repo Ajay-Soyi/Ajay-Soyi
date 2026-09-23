@@ -36,6 +36,7 @@ A JavaScript-based task management application built to practice DOM manipulatio
 A basic weather application that fetches and displays weather information using JavaScript.
 
 [View Repository](https://github.com/Ajay-Soyi/Weather-App)
+[Live Link](https://ajay-soyi.github.io/VLC-Media-Player-Clone-/)
 
 ### 🎬 VLC Media Player Clone
 
